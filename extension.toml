@@ -8,4 +8,4 @@ repository = "https://github.com/zed-extensions/golangci-lint"
 
 [language_servers.golangci-lint]
 name = "golangci-lint"
-languages = ["Go"]
+language = "Go"
